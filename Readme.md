@@ -3,7 +3,6 @@
 
 * [MainPage.xaml](./CS/GridDemo/MainPage.xaml)
 * [MainPage.xaml.cs](./CS/GridDemo/MainPage.xaml.cs)
-* [Reference.cs](./CS/GridDemo/Service References/ServiceReference1/Reference.cs)
 * [IService1.cs](./CS/WebApplication1/IService1.cs) (VB: [IService1.vb](./VB/WebApplication1/IService1.vb))
 * [Service1.svc.cs](./CS/WebApplication1/Service1.svc.cs) (VB: [Service1.svc.vb](./VB/WebApplication1/Service1.svc.vb))
 <!-- default file list end -->
