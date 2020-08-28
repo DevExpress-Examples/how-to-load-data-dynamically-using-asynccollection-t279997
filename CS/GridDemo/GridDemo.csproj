@@ -149,17 +149,8 @@
     <WCFMetadataStorage Include="Service References\ServiceReference1\" />
   </ItemGroup>
   <ItemGroup>
-    <SDKReference Include="DevExpress.Controls, Version=15.2">
-      <Name>DevExpress.Controls</Name>
-    </SDKReference>
-    <SDKReference Include="DevExpress.Core, version=15.2">
-      <Name>DevExpress.Core</Name>
-    </SDKReference>
-    <SDKReference Include="DevExpress.Data, Version=15.2">
-      <Name>DevExpress.Data</Name>
-    </SDKReference>
-    <SDKReference Include="DevExpress.Visualization, Version=15.2">
-      <Name>DevExpress.Visualization</Name>
+    <SDKReference Include="DevExpress.Uwp, Version=20.1">
+      <Name>DevExpress.Uwp</Name>
     </SDKReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
