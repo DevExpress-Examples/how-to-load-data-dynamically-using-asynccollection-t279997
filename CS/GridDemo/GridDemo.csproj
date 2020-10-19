@@ -149,7 +149,7 @@
     <WCFMetadataStorage Include="Service References\ServiceReference1\" />
   </ItemGroup>
   <ItemGroup>
-    <SDKReference Include="DevExpress.Uwp, Version=18.2">
+    <SDKReference Include="DevExpress.Uwp, Version=17.2">
       <Name>DevExpress.Uwp</Name>
     </SDKReference>
   </ItemGroup>
